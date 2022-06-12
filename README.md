@@ -1,7 +1,7 @@
 
 #EXTM3U url-tvg="http://metatvpro.com:25461/xmltv.php?username=Nizam6473&password=Nizam6473
 #EXTM3U
-#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia",TV1 HD
+#EXTINF:-1 tvg-id="101" tvg-name="TV1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png" group-title="Malaysia",tukar box chip untuk stabil channel dn full audio&sub  blh tukar
 http://metatvpro.com:25461/Nizam6473/Nizam6473/1
 #EXTINF:-1 tvg-id="102" tvg-name="TV2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/396_144.png" group-title="Malaysia",TV2 HD
 http://metatvpro.com:25461/Nizam6473/Nizam6473/2
